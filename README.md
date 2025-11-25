@@ -59,7 +59,7 @@ Basta substituir os nomes das imagens pelos arquivos que você colocou em **/pub
 ### 🟥 Lista de Todos os E-mails
 
 <p align="center">
-  <img src="./public/TodosEmails.png.png" width="800" />
+  <img src="./public/TodosEmails.png" width="800" />
 </p>
 
 ---
