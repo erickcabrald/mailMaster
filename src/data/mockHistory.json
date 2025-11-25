@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "subject": "Bem-vindo à MailMaster",
+    "recipients": 15,
+    "sentAt": "2024-01-20T10:30:00Z",
+    "status": "enviado",
+    "opened": 12,
+    "clicked": 8
+  },
+  {
+    "id": "2",
+    "subject": "Newsletter Janeiro 2024",
+    "recipients": 45,
+    "sentAt": "2024-01-18T14:00:00Z",
+    "status": "enviado",
+    "opened": 38,
+    "clicked": 22
+  },
+  {
+    "id": "3",
+    "subject": "Promoção de Fim de Mês",
+    "recipients": 30,
+    "sentAt": "2024-01-15T09:00:00Z",
+    "status": "enviado",
+    "opened": 25,
+    "clicked": 15
+  },
+  {
+    "id": "4",
+    "subject": "Pesquisa de Satisfação",
+    "recipients": 20,
+    "sentAt": "2024-01-12T16:30:00Z",
+    "status": "enviado",
+    "opened": 18,
+    "clicked": 10
+  }
+]

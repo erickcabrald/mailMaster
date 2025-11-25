@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Boas-vindas",
+    "subject": "Bem-vindo(a) à MailMaster, {{name}}!",
+    "body": "<p>Olá <strong>{{name}}</strong>,</p><p>É um prazer tê-lo(a) conosco! Estamos animados para ajudá-lo(a) a alcançar seus objetivos.</p><p>Atenciosamente,<br/>Equipe MailMaster</p>",
+    "createdAt": "2024-01-10T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Newsletter Mensal",
+    "subject": "Newsletter {{month}} - Novidades MailMaster",
+    "body": "<p>Olá {{name}},</p><p>Confira as novidades deste mês:</p><ul><li>Novo recurso de agendamento</li><li>Templates personalizáveis</li><li>Estatísticas avançadas</li></ul><p>Até breve!</p>",
+    "createdAt": "2024-01-15T14:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Promoção Especial",
+    "subject": "Oferta exclusiva para você, {{name}}!",
+    "body": "<p>Olá {{name}},</p><p>Temos uma oferta especial só para você de <strong>{{company}}</strong>!</p><p>Aproveite 30% de desconto em todos os nossos planos.</p><p>Válido até o fim do mês.</p>",
+    "createdAt": "2024-01-20T09:30:00Z"
+  }
+]
