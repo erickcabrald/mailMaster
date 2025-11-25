@@ -116,10 +116,6 @@ O projeto abre geralmente em:
 
 ---
 
-```
-
-
 ## 👨‍💻 Autor
 
 Projeto desenvolvido para fins acadêmicos por **Erick Cabral**.
-```
