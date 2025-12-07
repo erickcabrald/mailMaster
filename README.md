@@ -29,8 +29,7 @@ A aplicação foi construída com **React + TypeScript**, utilizando **Vite** pa
 
 ## 📸 Demonstração da Interface
 
-Aqui estão algumas telas principais do sistema.  
-Basta substituir os nomes das imagens pelos arquivos que você colocou em **/public**.
+Aqui estão algumas telas principais do sistema.
 
 ### 🟦 Dashboard
 
