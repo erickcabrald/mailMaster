@@ -98,7 +98,7 @@ O projeto deve evoluir com:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
+git clone https://github.com/erickcabrald/mailMaster.git
 
 # Acesse o diretório
 cd nome-do-projeto
